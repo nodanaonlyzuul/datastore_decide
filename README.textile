@@ -12,3 +12,21 @@ h2. How do I use decide?
 h2. Command Line Decisions
 
 The gem comes with a bin so you can just type 'decide' whenever you want!
+For example:
+
+@$ decide@
+@Just store it in Cassandra.@
+@$ decide@
+@Just store it in Redis.@
+@$ decide@
+@Just store it in Mongo.@
+@$ decide@
+@Just store it in MySQL.@
+@$ decide@
+@Just store it in Hadoop.@
+@$ decide@
+@Just store it in Cassandra.@
+@$ decide@
+@Just store it in Mongo.@
+@$ decide@
+@Just store it in something you make yourself.@
