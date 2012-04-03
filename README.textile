@@ -1,0 +1,14 @@
+h1. DataStore Decide
+
+  Wondering how you should persist data in that new app?
+  Use decide, it'll come up with just as bad an answer as you would have
+
+h2. How do I use decide?
+
+# Install this gem
+
+@gem install datastore_decide@
+
+h2. Command Line Decisions
+
+The gem comes with a bin so you can just type 'decide' whenever you want!
